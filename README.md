@@ -1,17 +1,210 @@
-<h1 align="center">Hi, I'm Haider!!!</h1>
-<h3 align="center">An Enthusiastic AI Developer</h3>
+# 🚀 Muzammil Haider
 
-<p align="left"> <a href="https://twitter.com/nfak_ism_" target="blank"><img src="https://img.shields.io/twitter/follow/nfak_ism_?logo=twitter&style=for-the-badge" alt="nfak_ism_" /></a> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+Developer+%26+ML+Engineer;Full+Stack+Developer;Hackathon+Enthusiast;Open+Source+Contributor&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=9D4EDD">
+</div>
 
-- 📫 How to reach me **muzamilhaider444@gmail.com**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,28,26,16&height=100&section=header&text=&fontSize=0&animation=twinkling">
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nfak_ism_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nfak_ism_" height="30" width="40" /></a>
+---
+
+## 🎯 About Me
+
+```python
+class MuzammilHaider:
+    def __init__(self):
+        self.name = "Muzammil Haider"
+        self.role = "AI Developer & ML Engineer"
+        self.location = "Islamabad, Pakistan"
+        self.education = "BS Artificial Intelligence @ NUML"
+        self.cgpa = "3.60/4.0"
+        
+    def current_focus(self):
+        return [
+            "🤖 Building AI-powered applications",
+            "🧠 Deep Learning & NLP research",
+            "🌐 Full-stack development with Django",
+            "🏆 Competitive programming & hackathons"
+        ]
+    
+    def get_contact(self):
+        return {
+            "email": "muzamilhaider444@gmail.com",
+            "linkedin": "linkedin.com/in/muzamil-haider",
+            "github": "github.com/haideransari444"
+        }
+```
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🎓 Alif - AI Tutor App</h3>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=haideransari444&repo=alif-ai-tutor&theme=dark&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD&border_color=6A0DAD&border_radius=15" width="100%" alt="Alif"/>
+        </div>
+        <p align="center">
+          <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">⚖️ Qanoon - Legal AI Chatbot</h3>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=haideransari444&repo=qanoon-legal-chatbot&theme=dark&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD&border_color=6A0DAD&border_radius=15" width="100%" alt="Qanoon"/>
+        </div>
+        <p align="center">
+          <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white"/>
+          <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🖥️ Easy-Terminal - AI Terminal</h3>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=haideransari444&repo=easy-terminal&theme=dark&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD&border_color=6A0DAD&border_radius=15" width="100%" alt="Easy Terminal"/>
+        </div>
+        <p align="center">
+          <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+          <img src="https://img.shields.io/badge/NLP-FF6B6B?style=for-the-badge&logo=nltk&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎮 Mario-RL - PPO Agent</h3>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=haideransari444&repo=mario-rl&theme=dark&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD&border_color=6A0DAD&border_radius=15" width="100%" alt="Mario RL"/>
+        </div>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Stable_Baselines3-00D4AA?style=for-the-badge&logo=openai&logoColor=white"/>
+          <img src="https://img.shields.io/badge/OpenAI_Gym-0081A5?style=for-the-badge&logo=openai&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PPO-FF4B4B?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,django,fastapi,tensorflow,pytorch,opencv,docker,git,firebase,postgres,linux,vscode&theme=dark" />
+</div>
+
+### 🧠 AI/ML Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrewAI-9D4EDD?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AutoGen-6A0DAD?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🌐 Web Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haideransari444&" alt="haideransari444" /></p>
+### 🔧 Tools & Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+</p>
 
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haideransari444&show_icons=true&theme=dark&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD&border_color=6A0DAD&border_radius=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haideransari444&layout=compact&theme=dark&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&border_color=6A0DAD&border_radius=15"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haideransari444&theme=dark&background=0D1117&border=6A0DAD&stroke=9D4EDD&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border_radius=15"/>
+</div>
+
+---
+
+## 🏆 Achievements & Activities
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=haideransari444&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1&column=6&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest" />
+</div>
+
+### 🎯 Hackathons & Competitions
+- 🏅 **COMPECC NUST 2024 & 2025** - Active Participant
+- 🏅 **VISIO SPARK COMSATS 2024** - Competition Participant
+- 🏅 **Multiple AI/ML Hackathons** - Project Submissions
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haideransari444&theme=react-dark&bg_color=0D1117&color=9D4EDD&line=6A0DAD&point=FFFFFF&area=true&hide_border=true"/>
+</div>
+
+---
+
+## 🎵 Current Vibe
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_ID&unique=true&count=3&width=600" />
+</div>
+
+---
+
+## 🌟 Let's Connect!
+
+<div align="center">
+  <a href="mailto:muzamilhaider444@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/muzamil-haider">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/haideransari444">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/nfak_ism_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,14,28,26,16&height=100&section=footer&text=&fontSize=0&animation=twinkling">
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=haideransari444&label=Profile%20views&color=9D4EDD&style=for-the-badge" />
+</div>
+
+---
+
+<div align="center">
+  
+**"Building the future with AI, one algorithm at a time"** 🚀
+  
+</div>
