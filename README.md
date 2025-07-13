@@ -17,24 +17,44 @@
 ## 🎨 **About Me**
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=500&color=9D4EDD&center=true&vCenter=true&width=600&lines=🎓+Computer+Science+Scholar+at+NUML;🧠+AI%2FML+Specialist+%26+Problem+Solver;🚀+Full-Stack+Developer;💜+Passionate+Purple+Code+Enthusiast" />
+</div>
+
+<br>
+
+<div align="center">
   <table>
     <tr>
-      <td width="60%">
-        <h3>🌟 <b>Who Am I?</b></h3>
-        <p>
-          🎓 <b>Computer Science Scholar</b> at NUML | <b>3.60/4.0 CGPA</b><br>
-          🧠 <b>AI/ML Specialist</b> transforming complex problems into elegant solutions<br>
-          🚀 <b>Full-Stack Developer</b> building next-generation intelligent applications<br>
-          🏆 <b>Hackathon Champion</b> with multiple competition wins<br>
-          📚 <b>Research Enthusiast</b> in cutting-edge NLP and deep learning<br>
-          💜 <b>Purple enthusiast</b> who codes with passion and precision
-        </p>
+      <td width="50%">
+        <h3 align="center">🌟 <b>Professional Journey</b></h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/🎓_Scholar-NUML_University-9D4EDD?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+          <img src="https://img.shields.io/badge/📊_CGPA-3.60%2F4.0-FFD700?style=for-the-badge&logo=star&logoColor=white"/>
+          <br><br>
+          <img src="https://img.shields.io/badge/🧠_AI%2FML-Specialist-FF6B6B?style=for-the-badge&logo=brain&logoColor=white"/>
+          <img src="https://img.shields.io/badge/🚀_Full--Stack-Developer-00D4FF?style=for-the-badge&logo=code&logoColor=white"/>
+          <br><br>
+          <img src="https://img.shields.io/badge/🏆_Hackathon-Champion-FFD700?style=for-the-badge&logo=trophy&logoColor=white"/>
+          <img src="https://img.shields.io/badge/📚_Research-Enthusiast-9D4EDD?style=for-the-badge&logo=book&logoColor=white"/>
+        </div>
       </td>
-      <td width="40%">
-        <img src="https://github-readme-stats.vercel.app/api?username=haideransari444&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD&border_color=9D4EDD&border_radius=20&hide_title=false&card_width=400" />
+      <td width="50%">
+        <h3 align="center">📊 <b>GitHub Stats</b></h3>
+        <div align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=haideransari444&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD&border_color=9D4EDD&border_radius=20&hide_title=false&card_width=400" />
+        </div>
       </td>
     </tr>
   </table>
+</div>
+
+<div align="center">
+  <h3>💡 <b>What Drives Me</b></h3>
+  <p>
+    <img src="https://img.shields.io/badge/🎯_Mission-Transform_Ideas_Into_Code-9D4EDD?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/💜_Passion-Purple_Themed_Everything-8A2BE2?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌟_Goal-Shape_AI_Future-FFD700?style=for-the-badge&logoColor=white"/>
+  </p>
 </div>
 
 <div align="center">
@@ -178,29 +198,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=haideransari444&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews" />
-</div>
-
-<div align="center">
-  <h3>🎯 <b>Hackathon Victories</b></h3>
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <img src="https://img.shields.io/badge/🥇-FIRST_PLACE-gold?style=for-the-badge&logoColor=white"/>
-        <h4><b>COMPECC NUST 2024 & 2025</b></h4>
-        <p>🧠 <b>Strategic Problem Solver</b></p>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://img.shields.io/badge/🥈-SECOND_PLACE-silver?style=for-the-badge&logoColor=white"/>
-        <h4><b>VISIO SPARK COMSATS 2024</b></h4>
-        <p>💡 <b>Innovation Catalyst</b></p>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://img.shields.io/badge/🥉-THIRD_PLACE-bronze?style=for-the-badge&logoColor=white"/>
-        <h4><b>Multiple AI/ML Hackathons</b></h4>
-        <p>🏗️ <b>Solution Architect</b></p>
-      </td>
-    </tr>
-  </table>
 </div>
 
 <div align="center">
