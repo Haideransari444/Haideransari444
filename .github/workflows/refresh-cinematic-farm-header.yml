@@ -1,0 +1,35 @@
+name: Refresh Cinematic Farm Header
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-header:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Update live farm header
+        run: python scripts/update_header.py
+
+      - name: Commit updated header
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/farm-header-live.png
+          if git diff --cached --quiet; then
+            echo "No header change needed."
+          else
+            git commit -m "refresh cinematic farm header"
+            git push
+          fi

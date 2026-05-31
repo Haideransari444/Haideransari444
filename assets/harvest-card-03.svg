@@ -1,0 +1,13 @@
+<svg width="640" height="250" viewBox="0 0 640 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Qanoon project card">
+<rect width="640" height="250" rx="22" fill="#060806"/>
+<rect x="14" y="14" width="612" height="222" rx="18" fill="#0D110B" stroke="#2D3322" stroke-width="3"/>
+<rect x="38" y="38" width="120" height="120" rx="18" fill="#3B281B" stroke="#38545C" stroke-width="3"/>
+<path d="M70 132 C75 96 92 76 100 55 C112 76 130 97 134 132" stroke="#38545C" stroke-width="8" stroke-linecap="round" fill="none"/>
+<path d="M100 136 V56" stroke="#E3C879" stroke-width="7" stroke-linecap="round"/>
+<circle cx="100" cy="50" r="7" fill="#E3C879"/>
+<text x="184" y="58" fill="#EFE1BE" font-family="Georgia, serif" font-size="28" font-weight="700">Qanoon</text>
+<text x="184" y="90" fill="#E3C879" font-family="Courier New, monospace" font-size="14">Legal RAG</text>
+<text x="184" y="122" fill="#A9A184" font-family="Trebuchet MS, Verdana, sans-serif" font-size="15">Pakistani legal assistant over laws, judgments, and documents</text>
+<rect x="184" y="156" width="410" height="42" rx="10" fill="#15180F" stroke="#2D3322" stroke-width="2"/>
+<text x="204" y="183" fill="#91A164" font-family="Courier New, monospace" font-size="14">Python | LangChain | Gemini | FAISS | embeddings</text>
+</svg>

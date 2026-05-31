@@ -1,0 +1,8 @@
+<svg width="1200" height="118" viewBox="0 0 1200 118" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Cinematic farm divider">
+<rect width="1200" height="118" fill="#060806"/>
+<path d="M70 56 C240 22 390 26 560 56 C730 86 900 86 1130 48" stroke="#4C3524" stroke-width="12" stroke-linecap="round"/>
+<path d="M70 47 C240 15 390 18 560 47 C730 78 900 78 1130 40" stroke="#C6A15B" stroke-width="3" stroke-linecap="round"/>
+<path d="M70 69 H1130" stroke="#2D3322" stroke-width="2"/>
+<g fill="#E3C879"><path d="M590 58 C572 50 564 39 560 22 C577 26 590 39 598 55 Z"/><path d="M610 58 C628 50 636 39 640 22 C623 26 610 39 602 55 Z"/><rect x="597" y="28" width="6" height="58" rx="3"/></g>
+<text x="600" y="103" fill="#A9A184" font-family="Courier New, monospace" font-size="12" text-anchor="middle">field notes from code, data, agents, automation, and research systems</text>
+</svg>
