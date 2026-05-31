@@ -199,10 +199,10 @@ My work sits around complete AI systems:
 
 
 
-## Contribution snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Haideransari444/Haideransari444/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake" />
+  <img src="./assets/farmer-sunset.png" width="100%" alt="Farmer looking at sunset" />
+  <br>
+  <span style="color: #C6A15B; font-size: 13px;"><i>I code for the love of the game</i></span>
 </p>
 
 
