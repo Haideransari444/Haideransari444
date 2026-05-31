@@ -33,5 +33,6 @@ jobs:
             echo "No header change needed."
           else
             git commit -m "refresh cinematic farm header"
+            git pull --rebase origin main
             git push
           fi

@@ -30,5 +30,6 @@ jobs:
             echo "No 3D contribution changes needed."
           else
             git commit -m "generate 3d contribution field"
+            git pull --rebase origin main
             git push
           fi
