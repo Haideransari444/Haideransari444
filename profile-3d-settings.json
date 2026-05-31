@@ -1,8 +1,0 @@
-{
-  "theme": {
-    "backgroundColor": "#070B07",
-    "textColor": "#EFE1BE",
-    "levelColors": ["#0F170F", "#3B4828", "#5A6A3B", "#67794A", "#8B9A60"]
-  },
-  "type": "gitblock"
-}

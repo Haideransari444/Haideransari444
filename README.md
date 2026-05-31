@@ -197,11 +197,7 @@ My work sits around complete AI systems:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haideransari444&bg_color=070B07&color=EFE1BE&line=C6A15B&point=8B9A60&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
 </p>
 
-## Contribution landscape
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-customize.svg" width="100%" alt="3D contribution field" />
-</p>
 
 ## Contribution snake
 
