@@ -205,16 +205,6 @@ My work sits around complete AI systems:
   <img src="https://raw.githubusercontent.com/Haideransari444/Haideransari444/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake" />
 </p>
 
-## Time aware cinematic farm
-
-The main header switches between **dawn**, **day**, **dusk**, and **night** through GitHub Actions.
-
-<p align="center">
-  <img src="./assets/header-dawn-preview.jpg" width="24%" alt="Dawn preview" />
-  <img src="./assets/header-day-preview.jpg" width="24%" alt="Day preview" />
-  <img src="./assets/header-dusk-preview.jpg" width="24%" alt="Dusk preview" />
-  <img src="./assets/header-night-preview.jpg" width="24%" alt="Night preview" />
-</p>
 
 ## Development style
 
