@@ -17,7 +17,7 @@ jobs:
         with:
           github_user_name: Haideransari444
           outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#C6A15B&color_dots=#0F170F,#3B4828,#5A6A3B,#67794A,#8B9A60
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4

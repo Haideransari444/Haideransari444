@@ -200,7 +200,7 @@ My work sits around complete AI systems:
 ## Contribution landscape
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D contribution field" />
+  <img src="./profile-3d-contrib/profile-customize.svg" width="100%" alt="3D contribution field" />
 </p>
 
 ## Contribution snake

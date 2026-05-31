@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dynamic Crop Fields SVG Preview</title>
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background: #0b0f14;
+      color: #edf2f7;
+      font-family: Inter, system-ui, Arial, sans-serif;
+      display: grid;
+      place-items: center;
+      padding: 28px;
+    }
+    .wrap { width: min(1200px, 100%); }
+    .panel {
+      background: #121823;
+      border: 1px solid #243145;
+      border-radius: 18px;
+      padding: 18px;
+      margin-top: 16px;
+      display: grid;
+      gap: 12px;
+      grid-template-columns: repeat(5, minmax(130px, 1fr));
+    }
+    label { display: grid; gap: 6px; font-size: 13px; color: #b7c1d1; }
+    input { width: 100%; }
+    .stage {
+      border-radius: 24px;
+      overflow: hidden;
+      box-shadow: 0 24px 80px rgba(0,0,0,.42);
+      border: 1px solid #263348;
+    }
+    svg { display: block; width: 100%; height: auto; }
+    @media (max-width: 760px) { .panel { grid-template-columns: 1fr; } }
+  </style>
+</head>
+<body>
+  <main class="wrap">
+    <div class="stage" id="stage"></div>
+    <section class="panel">
+      <label>Time of day <output id="timeOut">18.0</output><input id="time" type="range" min="0" max="24" step="0.1" value="18" /></label>
+      <label>Crop health <output id="healthOut">0.86</output><input id="health" type="range" min="0" max="1" step="0.01" value="0.86" /></label>
+      <label>Season <output id="seasonOut">0.35</output><input id="season" type="range" min="0" max="1" step="0.01" value="0.35" /></label>
+      <label>Wind <output id="windOut">0.45</output><input id="wind" type="range" min="0" max="1" step="0.01" value="0.45" /></label>
+      <label>Walk speed <output id="walkOut">0.55</output><input id="walk" type="range" min="0" max="1" step="0.01" value="0.55" /></label>
+    </section>
+  </main>
+
+  <script type="module">
+    import { applyCropTheme } from './crop_svg_controller.js';
+
+    const stage = document.getElementById('stage');
+    const svgText = await fetch('./crop-fields-dynamic.svg').then(r => r.text());
+    stage.innerHTML = svgText;
+    const svg = stage.querySelector('svg');
+
+    const inputs = {
+      time: document.getElementById('time'),
+      health: document.getElementById('health'),
+      season: document.getElementById('season'),
+      wind: document.getElementById('wind'),
+      walk: document.getElementById('walk')
+    };
+    const outputs = {
+      time: document.getElementById('timeOut'),
+      health: document.getElementById('healthOut'),
+      season: document.getElementById('seasonOut'),
+      wind: document.getElementById('windOut'),
+      walk: document.getElementById('walkOut')
+    };
+
+    function update() {
+      const values = {
+        timeOfDay: Number(inputs.time.value),
+        cropHealth: Number(inputs.health.value),
+        seasonProgress: Number(inputs.season.value),
+        wind: Number(inputs.wind.value),
+        walkingSpeed: Number(inputs.walk.value)
+      };
+      applyCropTheme(svg, values);
+      outputs.time.value = values.timeOfDay.toFixed(1);
+      outputs.health.value = values.cropHealth.toFixed(2);
+      outputs.season.value = values.seasonProgress.toFixed(2);
+      outputs.wind.value = values.wind.toFixed(2);
+      outputs.walk.value = values.walkingSpeed.toFixed(2);
+    }
+
+    Object.values(inputs).forEach(input => input.addEventListener('input', update));
+    update();
+  </script>
+</body>
+</html>
