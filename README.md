@@ -199,13 +199,6 @@ My work sits around complete AI systems:
 
 
 
-<p align="center">
-  <img src="./assets/farmer-sunset.png" width="100%" alt="Farmer looking at sunset" />
-  <br>
-  <span style="color: #C6A15B; font-size: 13px;"><i>I code for the love of the game</i></span>
-</p>
-
-
 ## Development style
 
 ```txt
@@ -242,3 +235,11 @@ music       use the play button above
 </p>
 
 <p align="center"><b>Build it. Grow it. Ship it.</b></p>
+
+
+
+<p align="center">
+  <img src="./assets/farmer-sunset.png" width="100%" alt="Farmer looking at sunset" />
+  <br>
+  <span style="color: #C6A15B; font-size: 13px;"><i>I code for the love of the game</i></span>
+</p>
